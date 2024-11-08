@@ -46,21 +46,20 @@ nav_order: 3
 
 ## Калибровка суставов 
 
- 1. Стоя лицом к роботу поверните его таз до упора влево
- 2. Поднимите ноги до упора вверх
- 3. Сведите два двигателя задницы к центру чтобы они соприкасались
- 4. Включите робота
- 5. Подождите 2 минуты(важно)
- 6. Нажмите одновременно две клавиши L2 + R2
- 7. Нажмите одновременно две клавиши L2+ B
- 8. Нажмите одновременно две клавиши L2 + L1
- 9. Нажмите одновременно две клавиши L2 + R1
- 10. Нажмите одновременно три клавиши L1 + R1 + R2
- 11. Перезапустите робота
+С новой версии программного обеспечения H1 от осени 2024 года калибровка суставов производится через приложение
+ 1. В [Device] -> [Data] -> [Robot] найти раздел [Calibration] и запустить калибровку моторов
+ 2. Зафиксировать робота в следующих положениях и нажимать *Calibrate* 
+![Calib Step 1](/assets/images/h1_cal_step1.png){: width="600px" style="display: block; margin: 0 auto"}
+ 3. Зафиксировать все моторы ниже таза до стопора по часовой стрелке
+![Calib Step 2](/assets/images/h1_cal_step2.png){: width="600px" style="display: block; margin: 0 auto"}
+ 4. Вернуть все моторы в нижнее положение, не поворачивая мотор таз-тело
+![Calib Step 3](/assets/images/h1_cal_step3.png){: width="600px" style="display: block; margin: 0 auto"}
+ 5. После успешного завершения калибровки вы увидите следующее уведомление
+![Calib Successful](/assets/images/h1_cal_suc.png){: width="600px" style="display: block; margin: 0 auto"}
+ 6. Перезапустите робота
 
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JejY3IfSjTw?si=MipmVQ0q7vZ2QX-v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</center>
+Инструкцию в видеоформате вы можете найти во вкладке [Guides] -> [Calibration]
+{: .note}
 
 ### Проверка калибровки суставов
  1. Включите робота
@@ -73,4 +72,5 @@ nav_order: 3
  4. Проверьте эффект, походив роботом (пожалуйста, используйте страховочную раму)
  5. При необходимости повторите процедуру
 
-
+Upd by Artem P. 31.10.2024
+{: .label .label-green }
