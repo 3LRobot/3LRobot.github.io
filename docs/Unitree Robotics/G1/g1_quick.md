@@ -73,6 +73,8 @@ nav_order: 2
 ![Hangon](/assets/images/g1_hang_on.png)
 6. Опустите крюк с роботом, чтобы он косался ногами пола и включите походку **R1 + X** или **R1 + Y**, робот должен утвердиться и принять устойчивое положение. Робот готов.
 ![TouchDown](/assets/images/g1_touch_down.jpg){: width="400px" style="display: block; margin: 0 auto"}
+Робот готов.
+![Ready](/assets/images/g1_ready.png)
 
 ### Пуск лежа 
 
@@ -83,4 +85,19 @@ nav_order: 2
 ![Ready](/assets/images/g1_ready.png)
 
 ## Базовое управление и привязка
+
+### Мобильное приложение
+
+Мобильное приложение Unitree Explore необходимо для настройки и контроля сервисов, калибровки и диагностики гуманойдных роботов H1 и G1. Для всех роботов первоначально требуется **обязательная** регистрастрация в облаке Unitree для нормальной работы: она производится через это приложение
+Отсканируйте соответствующие QR-коды ниже или перейдите по прямым ссылкам под ними
+<table style="border: 10px solid transparent;">
+  <tr>
+    <td align="center"><img src="/assets/images/uniqr_droid.png" alt="Android"></td>
+    <td align="center"><img src="/assets/images/uniqr_ios.png" alt="iOS"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Android</b></td>
+    <td align="center"><b>iOS(Testflight)</b></td>
+  </tr>
+</table>
 
