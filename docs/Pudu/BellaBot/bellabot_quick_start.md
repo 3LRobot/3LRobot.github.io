@@ -53,7 +53,7 @@ Navigation Menu
 1. Установить робота в начальной точке и включить 
 2. Открыть приложение
 ![Приложение](/assets/images/bella5.png){: width="400px" style="display: block; margin: 0 auto"}
-3. Открыть настройки, пролистать вниз и открыть меню дебаг(пароль - pudu666)
+3. Открыть настройки, пролистать вниз и открыть меню дебаг(пароль - pudupw)
 ![Приложение](/assets/images/bella6.png){: width="400px" style="display: block; margin: 0 auto"}
 4. Нажать RunToMappingTool
 5. Нажать Map manager, затем CREATE MAP
