@@ -6,9 +6,6 @@ nav_order: 1
 has_children: true
 ---
 
-Этот мануал черновой и еще не одобрен администратором
-{: .label .label-red }
-
 # Bittle
 
 
