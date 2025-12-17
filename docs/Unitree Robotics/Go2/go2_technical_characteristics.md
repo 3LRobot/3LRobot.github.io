@@ -30,7 +30,7 @@ nav_order: 1
 |      **Аппаратная составляющая**                                          |                     |                     |                                         |                                          |
 | Количество бортовых компьютеров                                           | 1                   | 1                   | 2                                       | 2                                        |
 | Слот под бортовой компьютер №1 (Motion PC)                                | miniPC (от Unitree) | miniPC (от Unitree) | miniPC (от Unitree)                     | miniPC (от Unitree)                      |
-| Слот под бортовой компьютер №2 (Development PC, докстанция)               | -                   | -                   | NVIDIA Jetson Orin Nano (8GbRAM/40TOPS) | NVIDIA Jetson Orin NX (16GbRAM/1000TOPS) |
+| Слот под бортовой компьютер №2 (Development PC, докстанция)               | -                   | -                   | NVIDIA Jetson Orin Nano (8GbRAM/40TOPS) | NVIDIA Jetson Orin NX (16GbRAM/100TOPS) |
 | Широкоугольный 3D-Лидар (носовой)                                         | V                   | V                   | V                                       | V                                        |
 | HD-камера, широкоугольная                                                 | V                   | V                   | V                                       | V                                        |
 | Датчики давления в ступнях                                                | -                   | -                   | V                                       | V                                        |

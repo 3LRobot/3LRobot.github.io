@@ -1,11 +1,3 @@
----
-layout: default
-title: Wukong
-parent: Deep Robotics
-nav_order: 4
-has_children: true
----
-
 # Wukong
 
 
