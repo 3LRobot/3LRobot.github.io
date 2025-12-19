@@ -1,14 +1,11 @@
 ---
 layout: default
 title: Быстрый старт SDK
-parent: H1
+parent: H1 и H1_2
 grand_parent: Unitree Robotics
-nav_order: 5
+nav_order: 7
 
 ---
-
-Этот мануал черновой и еще не одобрен администратором
-{: .label .label-red }
 
 # Быстрый старт SDK
 

@@ -1,14 +1,12 @@
 ---
 layout: default
 title: Программная архитектура
-parent: H1
+parent: H1 и H1_2
 grand_parent: Unitree Robotics
-nav_order: 6
+nav_order: 5
 
 ---
 
-Этот мануал черновой и еще не одобрен администратором
-{: .label .label-red }
 
 # Программная архитектура
 

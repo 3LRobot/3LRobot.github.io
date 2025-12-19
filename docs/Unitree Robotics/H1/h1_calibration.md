@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Калибровка
-parent: H1
+parent: H1 и H1_2
 grand_parent: Unitree Robotics
 nav_order: 3
 
